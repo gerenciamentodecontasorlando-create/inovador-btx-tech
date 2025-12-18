@@ -1,0 +1,16 @@
+{
+  "name": "BTX Docs Saúde",
+  "short_name": "BTX Docs",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAvklEQVR4nO3YwQmDMBQF0S2gY0J2gQ2YgQ1YgQ3YgQ2YgQ2YgQ0YgQ2wz4qKc2W2H3wQe0v5m0h8Gk7y0k0wQAAAAAAAAAAAAAA4Jr3W0i2fQ9o4n7gQ9c6p4x3k0c9wqYcQf0b7v1y0gkqkq9c2xjv7bX8p7Y0wH1j7m4c6qQzqf6d2Q2fVbqk8JY8c9f1mQAAAAAAAAAAAAAAAPgCq3b3g7QFQ7kAAAAASUVORK5CYII=",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
